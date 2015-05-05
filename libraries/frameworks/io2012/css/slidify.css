@@ -330,7 +330,7 @@ slide.segue h2{
 slide:not(.segue)  h2{
  font-family: "Open Sans Condensed";
  font-weight: 700;
- color: darkslategray;
+ color: darkred;
 }
 article p {
   font-family: "Open Sans"
@@ -362,7 +362,7 @@ pre code {
 
 .title-slide hgroup > h1, 
 .title-slide hgroup > h2 {
-  color: #FFFFFF ;  /* ; #EF5150*/
+  color: #FFFFFF; /* ; #EF5150*/
 }
 
 
